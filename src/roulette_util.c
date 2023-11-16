@@ -1,6 +1,6 @@
 #include "global.h"
 #include "gflib.h"
-#include "palette_util.h"
+#include "roulette_util.h"
 #include "util.h"
 
 // "RouletteFlash" is more accurately a general flashing/fading util.
